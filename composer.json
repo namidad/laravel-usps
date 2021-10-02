@@ -1,6 +1,6 @@
 {
-    "name": "johnpaulmedina/laravel-usps",
-    "description": "USPS API for Laravel 7",
+    "name": "namidad/laravel-usps",
+    "description": "johnpaulmedina USPS API for Laravel 8",
     "type": "library",
     "keywords": [
         "usps",
